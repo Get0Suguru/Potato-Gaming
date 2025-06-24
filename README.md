@@ -109,7 +109,7 @@ flowchart TD
 
 ---
 
-### 🩻 Fetching Game Details (using path variable)
+### 🩻 Fetching Game Details (by id stored in db)
 ![game_view](./screenshots/product_page.jpeg)
 
 ---
