@@ -94,9 +94,28 @@ flowchart TD
 
 ## 📸 Screenshots (How it looks)
 
+### 🛍️ HomePage 
 ![Homepage ](./screenshots/Homepage.png)
 
+---
 
+### 🧑‍💻 Fetching All Games (Paginated)
+![fetching games](./screenshots/fetching_games.png)
+
+---
+
+### 🔍 Search Api (search games by title, publisher, genre)
+![Search feature](./screenshots/search.png)
+
+---
+
+### 🩻 Fetching Game Details (using path variable)
+![game_view](./screenshots/product_page.jpeg)
+
+---
+
+### 📦  Multiple Media Embedded (Each game's data conatian trailer, screenshots)
+![Image flex ](./screenshots/multi_image_view.png)
 
 ---
 
