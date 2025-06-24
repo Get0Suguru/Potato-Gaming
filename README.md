@@ -1,6 +1,6 @@
 # Potato Gaming 🎮
 
-A robust, backend-focused game download platform (for low end pc's) built with **Spring Boot**. This project powers a modern frontend (not included here) and demonstrates best practices in REST API design, database modeling, and scalable backend architecture.
+A robust, backend-focused game download platform (for low end pc's) built with **Spring Boot**. This project powers a modern frontend and demonstrates best practices in REST API design, database modeling, and scalable backend architecture.
 
 
 ---
@@ -92,7 +92,7 @@ flowchart TD
 
 ---
 
-## 📸 Screenshots (How it looks when working)
+## 📸 Screenshots (How it looks)
 
 ![Homepage ](./screenshots/Homepage.png)
 
